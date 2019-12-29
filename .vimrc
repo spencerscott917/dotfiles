@@ -91,5 +91,3 @@ function! WC()
 endfunction
 
 command WC call WC()
-
-"" testing
